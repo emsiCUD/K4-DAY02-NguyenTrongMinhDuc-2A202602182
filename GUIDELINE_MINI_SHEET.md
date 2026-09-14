@@ -1,8 +1,8 @@
 # Phiếu quy tắc gán nhãn — Ngày 2
 
-**Họ và tên:** Nguyễn Trọng Minh Đức
-**MSSV:** 2A202602182
-**Hình thức:** cá nhân
+**Họ và tên:** Nguyễn Trọng Minh Đức<br>
+**MSSV:** 2A202602182<br>
+**Hình thức:** cá nhân<br>
 **Mã cặp:** `SOLO`
 
 ## 1. Phạm vi
